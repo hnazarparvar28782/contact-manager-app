@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contact-manger-app/static/css/main.4ecaad4f.css",
+    "main.js": "/contact-manger-app/static/js/main.12ae533b.js",
+    "static/media/no-found.gif": "/contact-manger-app/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/contact-manger-app/static/media/man-taking-note.578e1679689f39584d15.png",
+    "static/media/spinner.gif": "/contact-manger-app/static/media/spinner.233bc398299518152a4b.gif",
+    "index.html": "/contact-manger-app/index.html",
+    "main.4ecaad4f.css.map": "/contact-manger-app/static/css/main.4ecaad4f.css.map",
+    "main.12ae533b.js.map": "/contact-manger-app/static/js/main.12ae533b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ecaad4f.css",
+    "static/js/main.12ae533b.js"
+  ]
+}
